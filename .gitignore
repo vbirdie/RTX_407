@@ -1,3 +1,14 @@
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.map
+*.bak
+*.axf
+*.lnp
+*.lst
+*.ini
 *.lib
 Listing/
 Objects/
